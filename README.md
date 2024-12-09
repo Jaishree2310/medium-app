@@ -16,7 +16,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <iframe width="560" height="315" src="https://share.vidyard.com/watch/W6KbHPa9AxPStudSPtmRhF?" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
   <a href="https://github.com/aadeshkulkarni/medium-app">
     <img src="frontend/public/logo.png" alt="Logo" width="80" height="80">
