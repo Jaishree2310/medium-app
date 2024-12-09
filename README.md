@@ -40,6 +40,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+[![Video Thumbnail](thumbnail.png)](https://share.vidyard.com/watch/W6KbHPa9AxPStudSPtmRhF?)
+
 [![Screenshot 2024-06-02 at 6 32 27 AM](https://ucarecdn.com/bb958f8f-63b3-4209-a1c4-c5a21ceed7af/cover.jpeg)](https://figuringout.life)
 
 A React frontend and Cloudflare workers backend application offering features that replicate Medium, the popular blogging platform. 
